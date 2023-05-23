@@ -4,4 +4,5 @@ It has the names of the functions and comments in romanian and problems with cer
 I will make a better and updated version in the future.
 With the executable program, you can run the program more easily without requiring a compiler or the source code.
 
-
+The appearance of the application:
+![SimplePaintLook](https://github.com/RalucaDavid/SimplePaint/assets/117584603/528adca6-47ba-4778-a248-f18354e657b1)
